@@ -18,6 +18,8 @@ mediante técnicas de enumeración de red y servicios.
 ## 🔍 Reconocimiento de red
 
 ### Escaneo inicial
+
+```md
 ```bash
 nmap -sn 192.168.0.161
 ---
