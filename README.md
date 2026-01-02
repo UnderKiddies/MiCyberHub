@@ -1,6 +1,6 @@
-# RUTA DE HACKING ETICO
+# RUTA DE APRENDIZAJE AL HACKING ETICO
 
-# Pentesting y Seguridad Ofensiva – Ruta de Aprendizaje
+# Pentesting y Seguridad Ofensiva
 
 👋 Hola, soy **Daniel Sanchez**  
 🔐 Estudiante de ciberseguridad con enfoque en **pentesting, seguridad ofensiva
