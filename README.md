@@ -11,7 +11,7 @@ desarrolla exclusivamente en **entornos controlados y legales** (laboratorios).
 
 ## 🎯 Objetivo
 
-Desarrollar competencias técnicas en **pentesting y seguridad ofensiva**
+Desarrollar Habilidades técnicas en **pentesting y seguridad ofensiva**
 mediante la práctica estructurada en laboratorios, comprendiendo en profundidad
 cada fase de un ataque: **reconocimiento, enumeración, explotación,
 post-explotación, pivoting, movimiento lateral y escalada de privilegios**.
@@ -24,17 +24,19 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
 
 ## 🧠 Temas estudiados
 
-- Fundamentos de redes (TCP/IP, DNS, ARP, SMB)
+**CIBERSEGURIDAD**
+
+- Ciberseguridad y privacidad 101
   
-- Linux aplicado a pentesting
+- Ciberseguridad y privacidad 202
   
-- Windows y conceptos básicos de Active Directory
+- Ciberseguridad y privacidad 303
   
-- Enumeración de redes, hosts y servicios
+- Detección y protección contra Malware 
   
-- Vulnerabilidades web (OWASP Top 10)
+- Privacidad para Hackers Eticos
    
-- Inyección SQL (manual y automatizada)
+**HACKING ETICO**
  
 - Cross-Site Scripting (XSS)
  
