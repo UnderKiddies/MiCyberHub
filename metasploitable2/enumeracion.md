@@ -18,10 +18,9 @@ mediante técnicas de enumeración de red y servicios.
 ## 🔍 Reconocimiento de red
 
 ### Escaneo inicial
-
-```md
 ```bash
 nmap -sn 192.168.0.161
+```bash
 ---
 Este comando realiza un escaneo de descubrimiento de hosts dentro del rango de red 192.168.161.0/24, con el objetivo de identificar qué dispositivos están activos sin analizar puertos ni servicios.
 La opción -sn (scan no port) indica a Nmap que no realice escaneo de puertos, limitándose a enviar paquetes de descubrimiento (ICMP, ARP o TCP) para detectar hosts vivos.
