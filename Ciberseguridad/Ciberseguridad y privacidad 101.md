@@ -108,12 +108,19 @@ Y al igual que el malware lo que buscan es causar daños
 
 ## 🗜️ Vulnerabilidad amenaza y riesgo
 
+- **Vulnerabilidad**
 
+Es un fallo de configuracion, diseño o implementacion que pone en riesgo determinadas circunstancias de un activo.
+Afectando los pilares de la ciberseguridad ( CIA NP A ).
 
+- **Amenaza**
 
+Es cualquier tipo de circunstacia posible que se pueda manifestar y atraves de una vulnerabilidad poner en peligro la
+informacion. Estas amenazas pueden ser tanto **Fisicas** como **Logicas**.
 
+- **Riesgo**
 
-
+Es la Probabilidad o Posibilidad  de que una amenaza se materialice y afecte el activo en cuestion aprovechandose de una vulnerabilidad. 
 
 
 
