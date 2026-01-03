@@ -106,6 +106,9 @@ DoS|DDoS|MitM|Phishing|Etc
 
 Y al igual que el malware lo que buscan es causar daños 
 
+## 🗜️ Vulnerabilidad amenaza y riesgo
+
+
 
 
 
