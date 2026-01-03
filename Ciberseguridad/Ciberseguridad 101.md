@@ -4,7 +4,7 @@
 
 - **Seguridad de la informacion**
 
- Abarca todos los prosesos y medidas para salvaguardar la informacion fisica o logica
+ Abarca todos los procesos y medidas para salvaguardar la informacion fisica o logica
 
  Ejemplo:
 
