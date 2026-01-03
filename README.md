@@ -87,32 +87,32 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
 
 ## 📈 Progreso Práctico (FASE ACTIVA)
 
-**🔍 Reconocimiento y Enumeración**
+- **🔍 Reconocimiento y Enumeración**
 - [ ] Escaneo de red con Nmap (TCP SYN, versiones, OS)
 - [ ] Enumeración de servicios (FTP, SSH, HTTP, MySQL)
 - [ ] Identificación de versiones vulnerables
-**🌐 Explotación Web**
+- **🌐 Explotación Web**
 - [ ] SQL Injection 
 - [ ] XSS 
 - [ ] Command Injection
 - [ ] File Inclusion (LFI / RFI)
-**💥 Explotación de Servicios**
+- **💥 Explotación de Servicios**
 - [ ] Explotación en Metasploitable2
 - [ ] Uso de exploits en Metasploit
 - [ ] Obtención de shell inicial
-**🧬 Post-Explotación**
+- **🧬 Post-Explotación**
 - [ ] Sesión Meterpreter estable
 - [ ] Enumeración interna
 - [ ] Dump de credenciales
 - [ ] Persistencia básica
-**🔀 Movimiento y Pivoting**
+- **🔀 Movimiento y Pivoting**
 - [ ] Pivoting con Meterpreter
 - [ ] Port Forwarding
 - [ ] Movimiento lateral entre hosts
-**⬆️ Escalada de Privilegios**
+- **⬆️ Escalada de Privilegios**
 - [ ] Linux Privilege Escalation
 - [ ] Windows Privilege Escalation
-**🔵 Simulación Red Team**
+- **🔵 Simulación Red Team**
 - [ ] Ataque completo end-to-end
 - [ ] Documentación tipo reporte
  
