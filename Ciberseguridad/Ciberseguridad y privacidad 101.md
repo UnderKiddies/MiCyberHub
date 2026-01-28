@@ -128,7 +128,7 @@ Es la Probabilidad o Posibilidad  de que una amenaza se materialice y afecte el 
 
  Hace referencia a cualquier fallo que pueda provocar una amenaza natural.
 
-- **Vulnerabilidades fisica**
+- **Vulnerabilidades fisicas**
 
  Fallos que afectan de manera fisica la informacion como un mal cableado, todo lo que sea fisico.  
 
@@ -138,7 +138,7 @@ Es la Probabilidad o Posibilidad  de que una amenaza se materialice y afecte el 
 
  - **Vulnerabilidades de conexion**
 
- Son los fallos de comunicacion entre dos o mas activo, falta de cifrado, certificados, etc 
+ Son los fallos de comunicacion entre dos o mas activo. Falta de cifrado, certificados, etc 
 
  - **Vulnerabilidades humanas**
 
